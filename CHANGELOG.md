@@ -1,5 +1,6 @@
 # Change Log
 
+- nodejs: refresh config
 - filename in editor page title
 - close editor
 - he-IL skin language
